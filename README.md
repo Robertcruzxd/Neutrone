@@ -3,7 +3,7 @@
 **Neutralizing Drones Through Event-Based Intelligence**
 
 *Developed by Yass from team Blacklist*  
-*Junction Hackathon 2024 - Espoo, Finland*  
+*Junction Hackathon 2025 - Espoo, Finland*  
 *SensoFusion Challenge - Military Applications*
 
 ---
@@ -597,7 +597,7 @@ See `src/evio/` for library code and original license.
 ### NEUTRONE Components
 Detection algorithms, AI models, and military applications developed by:
 - **Team Blacklist**
-- Junction Hackathon 2024, Espoo, Finland
+- Junction Hackathon 2025, Espoo, Finland
 - SensoFusion Challenge
 
 ---
@@ -613,17 +613,17 @@ Detection algorithms, AI models, and military applications developed by:
 ## 📞 Contact
 
 **Team Blacklist**  
-Junction Hackathon 2024  
-SensoFusion Challenge - Military Applications  
+Junction Hackathon 2025  
+SensoFusion Challenge - Lights, Camera, Reaction! 
 
 For technical questions or collaboration:
-- Repository: [github.com/YassWrld/propeless](https://github.com/YassWrld/propeless)
+- Repository: [github.com/YassWrld/Neutrone](https://github.com/YassWrld/Neutrone)
 
 ---
 
 **NEUTRONE** - *Because traditional cameras can't keep up with modern drone threats.* 🚁⚡
 
-*Built for Junction Hackathon 2024 | SensoFusion Challenge | Military Applications*
+*Built for Junction Hackathon 2025 | SensoFusion Challenge | Lights, Camera, Reaction!*
       │   ├── index_scheduler.py
       │   ├── mmap.py
       │   ├── pacer.py

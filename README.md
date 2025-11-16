@@ -2,7 +2,7 @@
 
 **Neutralizing Drones Through Event-Based Intelligence**
 
-*Developed by Team Yass & Blacklist*  
+*Developed by Yass from team Blacklist*  
 *Junction Hackathon 2024 - Espoo, Finland*  
 *SensoFusion Challenge - Military Applications*
 
@@ -596,7 +596,7 @@ See `src/evio/` for library code and original license.
 
 ### NEUTRONE Components
 Detection algorithms, AI models, and military applications developed by:
-- **Team Yass & Blacklist**
+- **Team Blacklist**
 - Junction Hackathon 2024, Espoo, Finland
 - SensoFusion Challenge
 
@@ -798,10 +798,6 @@ decoded_polarity = (raw_polarity > 0).astype(np.int8, copy=False)
 
 ### Built with evio
 This project is built on top of [evio](https://github.com/ahtihelminen/evio) by **Ahti Helminen** - a minimal Python library for standardized handling of event camera data. evio provides the foundation for reading `.dat` recordings and processing event streams.
-
-### Team
-- **Yassine** - PROPELESS development (detection algorithms, AI model, dataset generation)
-- **Ahti Helminen** - evio library (event camera data handling)
 
 ### Junction Hackathon 2025
 Created for Junction Hackathon 2025 - demonstrating the power of event cameras for drone tracking without traditional RGB imaging.

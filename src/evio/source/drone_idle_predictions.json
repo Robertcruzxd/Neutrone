@@ -1,0 +1,2431 @@
+{
+  "source_file": "src/evio/source/drone_idle.dat",
+  "delta_ms": 50.0,
+  "total_frames": 202,
+  "predictions": [
+    {
+      "frame_id": 0,
+      "timestamp_s": 0.0319755,
+      "status": "detected",
+      "angle_deg": 50.18633270263672,
+      "confidence": 0.5,
+      "num_propellers": 3,
+      "centroid": {
+        "x": 594.6999561430988,
+        "y": 349.54576780903454
+      }
+    },
+    {
+      "frame_id": 1,
+      "timestamp_s": 0.0819755,
+      "status": "detected",
+      "angle_deg": 49.94734573364258,
+      "confidence": 0.5,
+      "num_propellers": 3,
+      "centroid": {
+        "x": 594.6846231664138,
+        "y": 349.38227111785534
+      }
+    },
+    {
+      "frame_id": 2,
+      "timestamp_s": 0.1319755,
+      "status": "detected",
+      "angle_deg": 56.47654342651367,
+      "confidence": 0.5,
+      "num_propellers": 1,
+      "centroid": {
+        "x": 594.7356538099717,
+        "y": 349.80698356482765
+      }
+    },
+    {
+      "frame_id": 3,
+      "timestamp_s": 0.1819755,
+      "status": "detected",
+      "angle_deg": 64.80257415771484,
+      "confidence": 0.5,
+      "num_propellers": 1,
+      "centroid": {
+        "x": 594.1858432577795,
+        "y": 347.1287936995774
+      }
+    },
+    {
+      "frame_id": 4,
+      "timestamp_s": 0.2319755,
+      "status": "detected",
+      "angle_deg": 55.80504608154297,
+      "confidence": 0.5,
+      "num_propellers": 1,
+      "centroid": {
+        "x": 594.869487251331,
+        "y": 344.4110955449706
+      }
+    },
+    {
+      "frame_id": 5,
+      "timestamp_s": 0.2819755,
+      "status": "detected",
+      "angle_deg": 55.91144943237305,
+      "confidence": 0.5,
+      "num_propellers": 1,
+      "centroid": {
+        "x": 595.4177852348994,
+        "y": 344.2861856823266
+      }
+    },
+    {
+      "frame_id": 6,
+      "timestamp_s": 0.3319755,
+      "status": "detected",
+      "angle_deg": 56.429996490478516,
+      "confidence": 0.5,
+      "num_propellers": 1,
+      "centroid": {
+        "x": 594.2404873996123,
+        "y": 342.9928551647743
+      }
+    },
+    {
+      "frame_id": 7,
+      "timestamp_s": 0.3819755,
+      "status": "detected",
+      "angle_deg": 59.01003646850586,
+      "confidence": 0.5,
+      "num_propellers": 1,
+      "centroid": {
+        "x": 595.3203195260012,
+        "y": 342.478019362006
+      }
+    },
+    {
+      "frame_id": 8,
+      "timestamp_s": 0.4319755,
+      "status": "detected",
+      "angle_deg": 64.33320617675781,
+      "confidence": 0.5,
+      "num_propellers": 1,
+      "centroid": {
+        "x": 595.3830034360935,
+        "y": 340.9388278565552
+      }
+    },
+    {
+      "frame_id": 9,
+      "timestamp_s": 0.4819755,
+      "status": "detected",
+      "angle_deg": 60.368900299072266,
+      "confidence": 0.5,
+      "num_propellers": 1,
+      "centroid": {
+        "x": 594.9475479303395,
+        "y": 339.07715363547106
+      }
+    },
+    {
+      "frame_id": 10,
+      "timestamp_s": 0.5319755,
+      "status": "detected",
+      "angle_deg": 61.2772102355957,
+      "confidence": 0.5,
+      "num_propellers": 1,
+      "centroid": {
+        "x": 595.5068688307723,
+        "y": 338.1635799328381
+      }
+    },
+    {
+      "frame_id": 11,
+      "timestamp_s": 0.5819755,
+      "status": "detected",
+      "angle_deg": 62.82334518432617,
+      "confidence": 0.5,
+      "num_propellers": 1,
+      "centroid": {
+        "x": 594.5447783397798,
+        "y": 337.3804919170882
+      }
+    },
+    {
+      "frame_id": 12,
+      "timestamp_s": 0.6319755,
+      "status": "detected",
+      "angle_deg": 64.7618637084961,
+      "confidence": 0.5,
+      "num_propellers": 1,
+      "centroid": {
+        "x": 595.4714251381879,
+        "y": 336.427877913963
+      }
+    },
+    {
+      "frame_id": 13,
+      "timestamp_s": 0.6819755,
+      "status": "detected",
+      "angle_deg": 67.47038269042969,
+      "confidence": 0.5,
+      "num_propellers": 1,
+      "centroid": {
+        "x": 594.8205470620741,
+        "y": 334.5907165223798
+      }
+    },
+    {
+      "frame_id": 14,
+      "timestamp_s": 0.7319755,
+      "status": "detected",
+      "angle_deg": 60.11281967163086,
+      "confidence": 0.5,
+      "num_propellers": 1,
+      "centroid": {
+        "x": 595.2043507606044,
+        "y": 332.2694044961321
+      }
+    },
+    {
+      "frame_id": 15,
+      "timestamp_s": 0.7819755,
+      "status": "detected",
+      "angle_deg": 63.81639099121094,
+      "confidence": 0.5,
+      "num_propellers": 1,
+      "centroid": {
+        "x": 595.6539907249206,
+        "y": 331.9017817915548
+      }
+    },
+    {
+      "frame_id": 16,
+      "timestamp_s": 0.8319755,
+      "status": "detected",
+      "angle_deg": 64.50222778320312,
+      "confidence": 0.5,
+      "num_propellers": 1,
+      "centroid": {
+        "x": 594.7718713789108,
+        "y": 330.66449401313247
+      }
+    },
+    {
+      "frame_id": 17,
+      "timestamp_s": 0.8819755,
+      "status": "detected",
+      "angle_deg": 66.05134582519531,
+      "confidence": 0.5,
+      "num_propellers": 1,
+      "centroid": {
+        "x": 595.2335845501649,
+        "y": 329.66900612341027
+      }
+    },
+    {
+      "frame_id": 18,
+      "timestamp_s": 0.9319755,
+      "status": "detected",
+      "angle_deg": 67.95632934570312,
+      "confidence": 0.5,
+      "num_propellers": 1,
+      "centroid": {
+        "x": 595.4761230178677,
+        "y": 327.9662294932139
+      }
+    },
+    {
+      "frame_id": 19,
+      "timestamp_s": 0.9819755,
+      "status": "detected",
+      "angle_deg": 63.602638244628906,
+      "confidence": 0.5,
+      "num_propellers": 1,
+      "centroid": {
+        "x": 595.2780227317264,
+        "y": 326.22589653145207
+      }
+    },
+    {
+      "frame_id": 20,
+      "timestamp_s": 1.0319755,
+      "status": "detected",
+      "angle_deg": 61.579833984375,
+      "confidence": 0.5,
+      "num_propellers": 1,
+      "centroid": {
+        "x": 595.5092676997873,
+        "y": 325.6000202572673
+      }
+    },
+    {
+      "frame_id": 21,
+      "timestamp_s": 1.0819755,
+      "status": "detected",
+      "angle_deg": 63.268165588378906,
+      "confidence": 0.5,
+      "num_propellers": 1,
+      "centroid": {
+        "x": 595.2109748288261,
+        "y": 325.47170090143345
+      }
+    },
+    {
+      "frame_id": 22,
+      "timestamp_s": 1.1319755,
+      "status": "detected",
+      "angle_deg": 63.8786506652832,
+      "confidence": 0.5,
+      "num_propellers": 1,
+      "centroid": {
+        "x": 595.8627938737684,
+        "y": 324.6888596234514
+      }
+    },
+    {
+      "frame_id": 23,
+      "timestamp_s": 1.1819755,
+      "status": "detected",
+      "angle_deg": 64.2738037109375,
+      "confidence": 0.5,
+      "num_propellers": 1,
+      "centroid": {
+        "x": 595.1695095948827,
+        "y": 323.7367706919946
+      }
+    },
+    {
+      "frame_id": 24,
+      "timestamp_s": 1.2319755,
+      "status": "detected",
+      "angle_deg": 61.40873336791992,
+      "confidence": 0.5,
+      "num_propellers": 1,
+      "centroid": {
+        "x": 595.0845692807802,
+        "y": 323.0958451848842
+      }
+    },
+    {
+      "frame_id": 25,
+      "timestamp_s": 1.2819755,
+      "status": "detected",
+      "angle_deg": 61.27277374267578,
+      "confidence": 0.5,
+      "num_propellers": 1,
+      "centroid": {
+        "x": 595.6143664409714,
+        "y": 323.1826095810212
+      }
+    },
+    {
+      "frame_id": 26,
+      "timestamp_s": 1.3319755,
+      "status": "detected",
+      "angle_deg": 63.334800720214844,
+      "confidence": 0.5,
+      "num_propellers": 1,
+      "centroid": {
+        "x": 595.5791389913899,
+        "y": 322.95758917589177
+      }
+    },
+    {
+      "frame_id": 27,
+      "timestamp_s": 1.3819755,
+      "status": "detected",
+      "angle_deg": 64.94458770751953,
+      "confidence": 0.5,
+      "num_propellers": 1,
+      "centroid": {
+        "x": 595.7849163350434,
+        "y": 322.27146761279187
+      }
+    },
+    {
+      "frame_id": 28,
+      "timestamp_s": 1.4319755,
+      "status": "detected",
+      "angle_deg": 64.05821228027344,
+      "confidence": 0.5,
+      "num_propellers": 1,
+      "centroid": {
+        "x": 596.1049457763945,
+        "y": 320.9595389777756
+      }
+    },
+    {
+      "frame_id": 29,
+      "timestamp_s": 1.4819755,
+      "status": "detected",
+      "angle_deg": 62.81731033325195,
+      "confidence": 0.5,
+      "num_propellers": 1,
+      "centroid": {
+        "x": 596.196655418817,
+        "y": 320.3954942437475
+      }
+    },
+    {
+      "frame_id": 30,
+      "timestamp_s": 1.5319755,
+      "status": "detected",
+      "angle_deg": 65.86630249023438,
+      "confidence": 0.5,
+      "num_propellers": 1,
+      "centroid": {
+        "x": 596.5640383616006,
+        "y": 320.14182453819626
+      }
+    },
+    {
+      "frame_id": 31,
+      "timestamp_s": 1.5819755,
+      "status": "detected",
+      "angle_deg": 67.09553527832031,
+      "confidence": 0.5,
+      "num_propellers": 1,
+      "centroid": {
+        "x": 596.4532907229865,
+        "y": 318.98355796396646
+      }
+    },
+    {
+      "frame_id": 32,
+      "timestamp_s": 1.6319755,
+      "status": "detected",
+      "angle_deg": 63.59519958496094,
+      "confidence": 0.5,
+      "num_propellers": 1,
+      "centroid": {
+        "x": 597.0954318204098,
+        "y": 317.59646113126166
+      }
+    },
+    {
+      "frame_id": 33,
+      "timestamp_s": 1.6819755,
+      "status": "detected",
+      "angle_deg": 58.17691421508789,
+      "confidence": 0.35,
+      "num_propellers": 0,
+      "centroid": {
+        "x": 593.8712594187298,
+        "y": 316.67012917115176
+      }
+    },
+    {
+      "frame_id": 34,
+      "timestamp_s": 1.7319755,
+      "status": "detected",
+      "angle_deg": 50.43210983276367,
+      "confidence": 0.24499999999999997,
+      "num_propellers": 0,
+      "centroid": {
+        "x": 586.6510393907236,
+        "y": 316.40458205880515
+      }
+    },
+    {
+      "frame_id": 35,
+      "timestamp_s": 1.7819755,
+      "status": "detected",
+      "angle_deg": 61.5487060546875,
+      "confidence": 0.5,
+      "num_propellers": 1,
+      "centroid": {
+        "x": 597.3233967046895,
+        "y": 317.0388846641318
+      }
+    },
+    {
+      "frame_id": 36,
+      "timestamp_s": 1.8319755,
+      "status": "detected",
+      "angle_deg": 64.37013244628906,
+      "confidence": 0.5,
+      "num_propellers": 1,
+      "centroid": {
+        "x": 596.5894395508664,
+        "y": 316.3921208014713
+      }
+    },
+    {
+      "frame_id": 37,
+      "timestamp_s": 1.8819755,
+      "status": "detected",
+      "angle_deg": 61.84321212768555,
+      "confidence": 0.5,
+      "num_propellers": 1,
+      "centroid": {
+        "x": 597.0044395116537,
+        "y": 315.4451114922813
+      }
+    },
+    {
+      "frame_id": 38,
+      "timestamp_s": 1.9319755,
+      "status": "detected",
+      "angle_deg": 61.713924407958984,
+      "confidence": 0.5,
+      "num_propellers": 1,
+      "centroid": {
+        "x": 596.8954099686583,
+        "y": 315.44267515923565
+      }
+    },
+    {
+      "frame_id": 39,
+      "timestamp_s": 1.9819755,
+      "status": "detected",
+      "angle_deg": 61.31388854980469,
+      "confidence": 0.5,
+      "num_propellers": 1,
+      "centroid": {
+        "x": 596.7130279898219,
+        "y": 315.7173536895674
+      }
+    },
+    {
+      "frame_id": 40,
+      "timestamp_s": 2.0319755,
+      "status": "detected",
+      "angle_deg": 62.251163482666016,
+      "confidence": 0.5,
+      "num_propellers": 1,
+      "centroid": {
+        "x": 596.4762238813449,
+        "y": 315.5474770757128
+      }
+    },
+    {
+      "frame_id": 41,
+      "timestamp_s": 2.0819755,
+      "status": "detected",
+      "angle_deg": 61.03957748413086,
+      "confidence": 0.5,
+      "num_propellers": 1,
+      "centroid": {
+        "x": 596.8783493556965,
+        "y": 314.6870525669871
+      }
+    },
+    {
+      "frame_id": 42,
+      "timestamp_s": 2.1319755,
+      "status": "detected",
+      "angle_deg": 59.35582733154297,
+      "confidence": 0.5,
+      "num_propellers": 1,
+      "centroid": {
+        "x": 597.5434256237498,
+        "y": 313.94646804926833
+      }
+    },
+    {
+      "frame_id": 43,
+      "timestamp_s": 2.1819755,
+      "status": "detected",
+      "angle_deg": 58.8082160949707,
+      "confidence": 0.5,
+      "num_propellers": 1,
+      "centroid": {
+        "x": 597.9050478214665,
+        "y": 313.78698193411265
+      }
+    },
+    {
+      "frame_id": 44,
+      "timestamp_s": 2.2319755,
+      "status": "detected",
+      "angle_deg": 60.01682662963867,
+      "confidence": 0.5,
+      "num_propellers": 1,
+      "centroid": {
+        "x": 598.5050478767694,
+        "y": 313.90809741881765
+      }
+    },
+    {
+      "frame_id": 45,
+      "timestamp_s": 2.2819755,
+      "status": "detected",
+      "angle_deg": 60.341243743896484,
+      "confidence": 0.5,
+      "num_propellers": 1,
+      "centroid": {
+        "x": 598.3576566785696,
+        "y": 313.5579878900792
+      }
+    },
+    {
+      "frame_id": 46,
+      "timestamp_s": 2.3319755,
+      "status": "detected",
+      "angle_deg": 61.016441345214844,
+      "confidence": 0.5,
+      "num_propellers": 1,
+      "centroid": {
+        "x": 598.381561444797,
+        "y": 313.0303898495856
+      }
+    },
+    {
+      "frame_id": 47,
+      "timestamp_s": 2.3819755,
+      "status": "detected",
+      "angle_deg": 58.654541015625,
+      "confidence": 0.5,
+      "num_propellers": 1,
+      "centroid": {
+        "x": 598.7021582733813,
+        "y": 312.5970690114575
+      }
+    },
+    {
+      "frame_id": 48,
+      "timestamp_s": 2.4319755,
+      "status": "detected",
+      "angle_deg": 57.92429733276367,
+      "confidence": 0.5,
+      "num_propellers": 1,
+      "centroid": {
+        "x": 599.3026017488935,
+        "y": 312.5679045665551
+      }
+    },
+    {
+      "frame_id": 49,
+      "timestamp_s": 2.4819755,
+      "status": "detected",
+      "angle_deg": 58.27375030517578,
+      "confidence": 0.5,
+      "num_propellers": 1,
+      "centroid": {
+        "x": 599.2884966198089,
+        "y": 312.55182959545016
+      }
+    },
+    {
+      "frame_id": 50,
+      "timestamp_s": 2.5319755,
+      "status": "detected",
+      "angle_deg": 59.155338287353516,
+      "confidence": 0.5,
+      "num_propellers": 1,
+      "centroid": {
+        "x": 599.2730058108822,
+        "y": 312.0958795562599
+      }
+    },
+    {
+      "frame_id": 51,
+      "timestamp_s": 2.5819755,
+      "status": "detected",
+      "angle_deg": 57.25297164916992,
+      "confidence": 0.5,
+      "num_propellers": 1,
+      "centroid": {
+        "x": 599.8592349726775,
+        "y": 311.137868852459
+      }
+    },
+    {
+      "frame_id": 52,
+      "timestamp_s": 2.6319755,
+      "status": "detected",
+      "angle_deg": 56.14973449707031,
+      "confidence": 0.5,
+      "num_propellers": 1,
+      "centroid": {
+        "x": 599.5466964036799,
+        "y": 310.7710621689434
+      }
+    },
+    {
+      "frame_id": 53,
+      "timestamp_s": 2.6819755,
+      "status": "detected",
+      "angle_deg": 56.20902633666992,
+      "confidence": 0.5,
+      "num_propellers": 1,
+      "centroid": {
+        "x": 599.3570593149541,
+        "y": 310.42483987747147
+      }
+    },
+    {
+      "frame_id": 54,
+      "timestamp_s": 2.7319755,
+      "status": "detected",
+      "angle_deg": 55.69719696044922,
+      "confidence": 0.5,
+      "num_propellers": 1,
+      "centroid": {
+        "x": 600.0977063188667,
+        "y": 309.8587249831347
+      }
+    },
+    {
+      "frame_id": 55,
+      "timestamp_s": 2.7819755,
+      "status": "detected",
+      "angle_deg": 57.339054107666016,
+      "confidence": 0.5,
+      "num_propellers": 1,
+      "centroid": {
+        "x": 599.2193365342645,
+        "y": 309.7007311217809
+      }
+    },
+    {
+      "frame_id": 56,
+      "timestamp_s": 2.8319755,
+      "status": "detected",
+      "angle_deg": 58.705135345458984,
+      "confidence": 0.5,
+      "num_propellers": 1,
+      "centroid": {
+        "x": 598.5948881789137,
+        "y": 309.3036741214058
+      }
+    },
+    {
+      "frame_id": 57,
+      "timestamp_s": 2.8819755,
+      "status": "detected",
+      "angle_deg": 58.48371887207031,
+      "confidence": 0.5,
+      "num_propellers": 1,
+      "centroid": {
+        "x": 599.7237693088888,
+        "y": 309.2982521780961
+      }
+    },
+    {
+      "frame_id": 58,
+      "timestamp_s": 2.9319755,
+      "status": "detected",
+      "angle_deg": 58.20039749145508,
+      "confidence": 0.5,
+      "num_propellers": 1,
+      "centroid": {
+        "x": 599.0094005156855,
+        "y": 309.31558874086807
+      }
+    },
+    {
+      "frame_id": 59,
+      "timestamp_s": 2.9819755,
+      "status": "detected",
+      "angle_deg": 57.882408142089844,
+      "confidence": 0.5,
+      "num_propellers": 1,
+      "centroid": {
+        "x": 598.752147371833,
+        "y": 309.08135703095456
+      }
+    },
+    {
+      "frame_id": 60,
+      "timestamp_s": 3.0319755,
+      "status": "detected",
+      "angle_deg": 59.42081069946289,
+      "confidence": 0.5,
+      "num_propellers": 1,
+      "centroid": {
+        "x": 597.8406688752169,
+        "y": 308.85602355786926
+      }
+    },
+    {
+      "frame_id": 61,
+      "timestamp_s": 3.0819755,
+      "status": "detected",
+      "angle_deg": 58.97610855102539,
+      "confidence": 0.5,
+      "num_propellers": 1,
+      "centroid": {
+        "x": 598.2045249827796,
+        "y": 308.4201239866476
+      }
+    },
+    {
+      "frame_id": 62,
+      "timestamp_s": 3.1319755,
+      "status": "detected",
+      "angle_deg": 58.514102935791016,
+      "confidence": 0.5,
+      "num_propellers": 1,
+      "centroid": {
+        "x": 597.8430021367521,
+        "y": 308.42077991452993
+      }
+    },
+    {
+      "frame_id": 63,
+      "timestamp_s": 3.1819755,
+      "status": "detected",
+      "angle_deg": 57.644500732421875,
+      "confidence": 0.5,
+      "num_propellers": 1,
+      "centroid": {
+        "x": 597.2551944881462,
+        "y": 308.3351055172788
+      }
+    },
+    {
+      "frame_id": 64,
+      "timestamp_s": 3.2319755,
+      "status": "detected",
+      "angle_deg": 59.260807037353516,
+      "confidence": 0.5,
+      "num_propellers": 1,
+      "centroid": {
+        "x": 596.9333614508646,
+        "y": 308.08909742724586
+      }
+    },
+    {
+      "frame_id": 65,
+      "timestamp_s": 3.2819755,
+      "status": "detected",
+      "angle_deg": 60.77667999267578,
+      "confidence": 0.5,
+      "num_propellers": 1,
+      "centroid": {
+        "x": 596.9920899892136,
+        "y": 307.65113770609685
+      }
+    },
+    {
+      "frame_id": 66,
+      "timestamp_s": 3.3319755,
+      "status": "detected",
+      "angle_deg": 57.40569305419922,
+      "confidence": 0.5,
+      "num_propellers": 1,
+      "centroid": {
+        "x": 596.9669826740765,
+        "y": 307.2464312956304
+      }
+    },
+    {
+      "frame_id": 67,
+      "timestamp_s": 3.3819755,
+      "status": "detected",
+      "angle_deg": 57.99789047241211,
+      "confidence": 0.5,
+      "num_propellers": 1,
+      "centroid": {
+        "x": 596.6838814016172,
+        "y": 307.511051212938
+      }
+    },
+    {
+      "frame_id": 68,
+      "timestamp_s": 3.4319755,
+      "status": "detected",
+      "angle_deg": 58.713714599609375,
+      "confidence": 0.5,
+      "num_propellers": 1,
+      "centroid": {
+        "x": 596.3690317772928,
+        "y": 307.28982807260337
+      }
+    },
+    {
+      "frame_id": 69,
+      "timestamp_s": 3.4819755,
+      "status": "detected",
+      "angle_deg": 62.81943893432617,
+      "confidence": 0.5,
+      "num_propellers": 1,
+      "centroid": {
+        "x": 596.4471581037478,
+        "y": 307.0890543559196
+      }
+    },
+    {
+      "frame_id": 70,
+      "timestamp_s": 3.5319755,
+      "status": "detected",
+      "angle_deg": 60.23807907104492,
+      "confidence": 0.5,
+      "num_propellers": 1,
+      "centroid": {
+        "x": 596.1899429756351,
+        "y": 306.09797822706065
+      }
+    },
+    {
+      "frame_id": 71,
+      "timestamp_s": 3.5819755,
+      "status": "detected",
+      "angle_deg": 59.691619873046875,
+      "confidence": 0.5,
+      "num_propellers": 1,
+      "centroid": {
+        "x": 595.9659863945578,
+        "y": 305.56033490319203
+      }
+    },
+    {
+      "frame_id": 72,
+      "timestamp_s": 3.6319755,
+      "status": "detected",
+      "angle_deg": 59.54335021972656,
+      "confidence": 0.5,
+      "num_propellers": 1,
+      "centroid": {
+        "x": 596.2645855194124,
+        "y": 305.88756558237145
+      }
+    },
+    {
+      "frame_id": 73,
+      "timestamp_s": 3.6819755,
+      "status": "detected",
+      "angle_deg": 59.07665252685547,
+      "confidence": 0.5,
+      "num_propellers": 1,
+      "centroid": {
+        "x": 595.8107479107161,
+        "y": 305.9335131704221
+      }
+    },
+    {
+      "frame_id": 74,
+      "timestamp_s": 3.7319755,
+      "status": "detected",
+      "angle_deg": 60.86209487915039,
+      "confidence": 0.5,
+      "num_propellers": 1,
+      "centroid": {
+        "x": 596.3564650971945,
+        "y": 305.6771298148433
+      }
+    },
+    {
+      "frame_id": 75,
+      "timestamp_s": 3.7819755,
+      "status": "detected",
+      "angle_deg": 60.45733642578125,
+      "confidence": 0.5,
+      "num_propellers": 1,
+      "centroid": {
+        "x": 596.1870577906316,
+        "y": 304.98884470381654
+      }
+    },
+    {
+      "frame_id": 76,
+      "timestamp_s": 3.8319755,
+      "status": "detected",
+      "angle_deg": 56.05657196044922,
+      "confidence": 0.8,
+      "num_propellers": 4,
+      "centroid": {
+        "x": 595.9925929930796,
+        "y": 304.548821366782
+      }
+    },
+    {
+      "frame_id": 77,
+      "timestamp_s": 3.8819755,
+      "status": "detected",
+      "angle_deg": 58.26264190673828,
+      "confidence": 0.8,
+      "num_propellers": 1,
+      "centroid": {
+        "x": 595.8995546493535,
+        "y": 304.49031496485486
+      }
+    },
+    {
+      "frame_id": 78,
+      "timestamp_s": 3.9319755,
+      "status": "detected",
+      "angle_deg": 59.48219299316406,
+      "confidence": 0.8,
+      "num_propellers": 1,
+      "centroid": {
+        "x": 595.6402941949041,
+        "y": 304.29986866298924
+      }
+    },
+    {
+      "frame_id": 79,
+      "timestamp_s": 3.9819755,
+      "status": "detected",
+      "angle_deg": 59.66114044189453,
+      "confidence": 0.8,
+      "num_propellers": 1,
+      "centroid": {
+        "x": 595.2312244684194,
+        "y": 303.6061590028281
+      }
+    },
+    {
+      "frame_id": 80,
+      "timestamp_s": 4.0319755,
+      "status": "detected",
+      "angle_deg": 57.154605865478516,
+      "confidence": 0.8,
+      "num_propellers": 2,
+      "centroid": {
+        "x": 595.4775364633238,
+        "y": 302.86106675183646
+      }
+    },
+    {
+      "frame_id": 81,
+      "timestamp_s": 4.0819755,
+      "status": "detected",
+      "angle_deg": 55.48421859741211,
+      "confidence": 0.8,
+      "num_propellers": 2,
+      "centroid": {
+        "x": 595.7410067997367,
+        "y": 302.8860495722746
+      }
+    },
+    {
+      "frame_id": 82,
+      "timestamp_s": 4.1319755,
+      "status": "detected",
+      "angle_deg": 55.084312438964844,
+      "confidence": 0.8,
+      "num_propellers": 2,
+      "centroid": {
+        "x": 595.5297431648715,
+        "y": 303.0870477768572
+      }
+    },
+    {
+      "frame_id": 83,
+      "timestamp_s": 4.1819755,
+      "status": "detected",
+      "angle_deg": 56.334598541259766,
+      "confidence": 0.8,
+      "num_propellers": 2,
+      "centroid": {
+        "x": 594.7437213070483,
+        "y": 302.76916014042666
+      }
+    },
+    {
+      "frame_id": 84,
+      "timestamp_s": 4.2319755,
+      "status": "detected",
+      "angle_deg": 58.80924606323242,
+      "confidence": 0.8,
+      "num_propellers": 1,
+      "centroid": {
+        "x": 594.9859664044227,
+        "y": 302.05055283861367
+      }
+    },
+    {
+      "frame_id": 85,
+      "timestamp_s": 4.2819755,
+      "status": "detected",
+      "angle_deg": 56.00613021850586,
+      "confidence": 0.8,
+      "num_propellers": 2,
+      "centroid": {
+        "x": 595.1657239203741,
+        "y": 301.4971173719134
+      }
+    },
+    {
+      "frame_id": 86,
+      "timestamp_s": 4.3319755,
+      "status": "detected",
+      "angle_deg": 53.73472213745117,
+      "confidence": 0.8,
+      "num_propellers": 2,
+      "centroid": {
+        "x": 595.6408278990643,
+        "y": 301.1533314431528
+      }
+    },
+    {
+      "frame_id": 87,
+      "timestamp_s": 4.3819755,
+      "status": "detected",
+      "angle_deg": 53.789573669433594,
+      "confidence": 1.0,
+      "num_propellers": 3,
+      "centroid": {
+        "x": 595.3687103354488,
+        "y": 301.2753286491387
+      }
+    },
+    {
+      "frame_id": 88,
+      "timestamp_s": 4.4319755,
+      "status": "detected",
+      "angle_deg": 54.31919860839844,
+      "confidence": 1.0,
+      "num_propellers": 2,
+      "centroid": {
+        "x": 595.1613753645951,
+        "y": 301.24472739510884
+      }
+    },
+    {
+      "frame_id": 89,
+      "timestamp_s": 4.4819755,
+      "status": "detected",
+      "angle_deg": 56.174835205078125,
+      "confidence": 1.0,
+      "num_propellers": 2,
+      "centroid": {
+        "x": 596.5078900276558,
+        "y": 301.2294886394447
+      }
+    },
+    {
+      "frame_id": 90,
+      "timestamp_s": 4.5319755,
+      "status": "detected",
+      "angle_deg": 58.718994140625,
+      "confidence": 1.0,
+      "num_propellers": 3,
+      "centroid": {
+        "x": 595.6716263155166,
+        "y": 301.3679817512572
+      }
+    },
+    {
+      "frame_id": 91,
+      "timestamp_s": 4.5819755,
+      "status": "detected",
+      "angle_deg": 61.73413848876953,
+      "confidence": 1.0,
+      "num_propellers": 1,
+      "centroid": {
+        "x": 596.092931540095,
+        "y": 301.8255131964809
+      }
+    },
+    {
+      "frame_id": 92,
+      "timestamp_s": 4.6319755,
+      "status": "detected",
+      "angle_deg": 59.99629211425781,
+      "confidence": 1.0,
+      "num_propellers": 2,
+      "centroid": {
+        "x": 596.2127237591537,
+        "y": 301.55700772986165
+      }
+    },
+    {
+      "frame_id": 93,
+      "timestamp_s": 4.6819755,
+      "status": "detected",
+      "angle_deg": 63.85165023803711,
+      "confidence": 1.0,
+      "num_propellers": 1,
+      "centroid": {
+        "x": 596.5820524081394,
+        "y": 301.51168691748404
+      }
+    },
+    {
+      "frame_id": 94,
+      "timestamp_s": 4.7319755,
+      "status": "detected",
+      "angle_deg": 63.50032043457031,
+      "confidence": 1.0,
+      "num_propellers": 1,
+      "centroid": {
+        "x": 596.8182398272223,
+        "y": 300.5596622981397
+      }
+    },
+    {
+      "frame_id": 95,
+      "timestamp_s": 4.7819755,
+      "status": "detected",
+      "angle_deg": 62.85919952392578,
+      "confidence": 1.0,
+      "num_propellers": 1,
+      "centroid": {
+        "x": 596.9804524707283,
+        "y": 299.86361381226436
+      }
+    },
+    {
+      "frame_id": 96,
+      "timestamp_s": 4.8319755,
+      "status": "detected",
+      "angle_deg": 62.91159439086914,
+      "confidence": 1.0,
+      "num_propellers": 1,
+      "centroid": {
+        "x": 597.6383284588311,
+        "y": 299.6501759777921
+      }
+    },
+    {
+      "frame_id": 97,
+      "timestamp_s": 4.8819755,
+      "status": "detected",
+      "angle_deg": 66.09043884277344,
+      "confidence": 1.0,
+      "num_propellers": 1,
+      "centroid": {
+        "x": 596.8396799246882,
+        "y": 299.4363379618734
+      }
+    },
+    {
+      "frame_id": 98,
+      "timestamp_s": 4.9319755,
+      "status": "detected",
+      "angle_deg": 66.27384948730469,
+      "confidence": 1.0,
+      "num_propellers": 1,
+      "centroid": {
+        "x": 596.9831033511687,
+        "y": 298.71092649957757
+      }
+    },
+    {
+      "frame_id": 99,
+      "timestamp_s": 4.9819755,
+      "status": "detected",
+      "angle_deg": 64.79718017578125,
+      "confidence": 1.0,
+      "num_propellers": 1,
+      "centroid": {
+        "x": 597.3747777190368,
+        "y": 297.97611380785315
+      }
+    },
+    {
+      "frame_id": 100,
+      "timestamp_s": 5.0319755,
+      "status": "detected",
+      "angle_deg": 63.653114318847656,
+      "confidence": 1.0,
+      "num_propellers": 1,
+      "centroid": {
+        "x": 597.1232923664496,
+        "y": 297.6312490819175
+      }
+    },
+    {
+      "frame_id": 101,
+      "timestamp_s": 5.0819755,
+      "status": "detected",
+      "angle_deg": 65.91705322265625,
+      "confidence": 1.0,
+      "num_propellers": 1,
+      "centroid": {
+        "x": 596.7195732225474,
+        "y": 297.671041450288
+      }
+    },
+    {
+      "frame_id": 102,
+      "timestamp_s": 5.1319755,
+      "status": "detected",
+      "angle_deg": 66.06849670410156,
+      "confidence": 1.0,
+      "num_propellers": 1,
+      "centroid": {
+        "x": 596.9136883740641,
+        "y": 297.154447426661
+      }
+    },
+    {
+      "frame_id": 103,
+      "timestamp_s": 5.1819755,
+      "status": "detected",
+      "angle_deg": 66.41837310791016,
+      "confidence": 1.0,
+      "num_propellers": 1,
+      "centroid": {
+        "x": 596.9685773157254,
+        "y": 296.4867940432706
+      }
+    },
+    {
+      "frame_id": 104,
+      "timestamp_s": 5.2319755,
+      "status": "detected",
+      "angle_deg": 65.42713165283203,
+      "confidence": 1.0,
+      "num_propellers": 1,
+      "centroid": {
+        "x": 596.5889237796175,
+        "y": 295.8259111237987
+      }
+    },
+    {
+      "frame_id": 105,
+      "timestamp_s": 5.2819755,
+      "status": "detected",
+      "angle_deg": 63.939266204833984,
+      "confidence": 1.0,
+      "num_propellers": 1,
+      "centroid": {
+        "x": 596.7003995322549,
+        "y": 295.43919313973885
+      }
+    },
+    {
+      "frame_id": 106,
+      "timestamp_s": 5.3319755,
+      "status": "detected",
+      "angle_deg": 64.87551879882812,
+      "confidence": 1.0,
+      "num_propellers": 1,
+      "centroid": {
+        "x": 596.761877339476,
+        "y": 295.00811018331893
+      }
+    },
+    {
+      "frame_id": 107,
+      "timestamp_s": 5.3819755,
+      "status": "detected",
+      "angle_deg": 64.28618621826172,
+      "confidence": 1.0,
+      "num_propellers": 1,
+      "centroid": {
+        "x": 596.559178334383,
+        "y": 294.51911244610244
+      }
+    },
+    {
+      "frame_id": 108,
+      "timestamp_s": 5.4319755,
+      "status": "detected",
+      "angle_deg": 63.16561508178711,
+      "confidence": 1.0,
+      "num_propellers": 1,
+      "centroid": {
+        "x": 596.4127634371453,
+        "y": 294.0172745669019
+      }
+    },
+    {
+      "frame_id": 109,
+      "timestamp_s": 5.4819755,
+      "status": "detected",
+      "angle_deg": 62.516151428222656,
+      "confidence": 1.0,
+      "num_propellers": 1,
+      "centroid": {
+        "x": 596.5434630738523,
+        "y": 293.3548902195609
+      }
+    },
+    {
+      "frame_id": 110,
+      "timestamp_s": 5.5319755,
+      "status": "detected",
+      "angle_deg": 62.776580810546875,
+      "confidence": 1.0,
+      "num_propellers": 1,
+      "centroid": {
+        "x": 596.1131644311972,
+        "y": 292.70963735717834
+      }
+    },
+    {
+      "frame_id": 111,
+      "timestamp_s": 5.5819755,
+      "status": "detected",
+      "angle_deg": 62.04072952270508,
+      "confidence": 1.0,
+      "num_propellers": 1,
+      "centroid": {
+        "x": 595.9394335731174,
+        "y": 291.8606569746969
+      }
+    },
+    {
+      "frame_id": 112,
+      "timestamp_s": 5.6319755,
+      "status": "detected",
+      "angle_deg": 63.43206024169922,
+      "confidence": 1.0,
+      "num_propellers": 1,
+      "centroid": {
+        "x": 595.888058968059,
+        "y": 291.06
+      }
+    },
+    {
+      "frame_id": 113,
+      "timestamp_s": 5.6819755,
+      "status": "detected",
+      "angle_deg": 63.54695510864258,
+      "confidence": 1.0,
+      "num_propellers": 1,
+      "centroid": {
+        "x": 595.4837649597803,
+        "y": 290.15553266627427
+      }
+    },
+    {
+      "frame_id": 114,
+      "timestamp_s": 5.7319755,
+      "status": "detected",
+      "angle_deg": 61.85417556762695,
+      "confidence": 1.0,
+      "num_propellers": 4,
+      "centroid": {
+        "x": 596.034426873588,
+        "y": 289.60828995187114
+      }
+    },
+    {
+      "frame_id": 115,
+      "timestamp_s": 5.7819755,
+      "status": "detected",
+      "angle_deg": 62.03214645385742,
+      "confidence": 1.0,
+      "num_propellers": 1,
+      "centroid": {
+        "x": 595.4260563380282,
+        "y": 289.03661971830985
+      }
+    },
+    {
+      "frame_id": 116,
+      "timestamp_s": 5.8319755,
+      "status": "detected",
+      "angle_deg": 61.14220428466797,
+      "confidence": 1.0,
+      "num_propellers": 1,
+      "centroid": {
+        "x": 595.2269384002452,
+        "y": 288.39534171008273
+      }
+    },
+    {
+      "frame_id": 117,
+      "timestamp_s": 5.8819755,
+      "status": "detected",
+      "angle_deg": 59.80244445800781,
+      "confidence": 1.0,
+      "num_propellers": 2,
+      "centroid": {
+        "x": 595.5795071070662,
+        "y": 287.9095510788424
+      }
+    },
+    {
+      "frame_id": 118,
+      "timestamp_s": 5.9319755,
+      "status": "detected",
+      "angle_deg": 60.690921783447266,
+      "confidence": 1.0,
+      "num_propellers": 1,
+      "centroid": {
+        "x": 595.1601029601029,
+        "y": 287.2687258687259
+      }
+    },
+    {
+      "frame_id": 119,
+      "timestamp_s": 5.9819755,
+      "status": "detected",
+      "angle_deg": 59.79475784301758,
+      "confidence": 1.0,
+      "num_propellers": 4,
+      "centroid": {
+        "x": 595.3394509405185,
+        "y": 286.85673614641587
+      }
+    },
+    {
+      "frame_id": 120,
+      "timestamp_s": 6.0319755,
+      "status": "detected",
+      "angle_deg": 60.79245376586914,
+      "confidence": 1.0,
+      "num_propellers": 1,
+      "centroid": {
+        "x": 595.4340408037413,
+        "y": 286.1154735597924
+      }
+    },
+    {
+      "frame_id": 121,
+      "timestamp_s": 6.0819755,
+      "status": "detected",
+      "angle_deg": 61.84091567993164,
+      "confidence": 1.0,
+      "num_propellers": 1,
+      "centroid": {
+        "x": 595.6280278562778,
+        "y": 285.59441865159465
+      }
+    },
+    {
+      "frame_id": 122,
+      "timestamp_s": 6.1319755,
+      "status": "detected",
+      "angle_deg": 62.69985580444336,
+      "confidence": 1.0,
+      "num_propellers": 1,
+      "centroid": {
+        "x": 595.4567747711898,
+        "y": 284.80227815360126
+      }
+    },
+    {
+      "frame_id": 123,
+      "timestamp_s": 6.1819755,
+      "status": "detected",
+      "angle_deg": 62.267642974853516,
+      "confidence": 1.0,
+      "num_propellers": 1,
+      "centroid": {
+        "x": 595.6048108243548,
+        "y": 284.06038586820347
+      }
+    },
+    {
+      "frame_id": 124,
+      "timestamp_s": 6.2319755,
+      "status": "detected",
+      "angle_deg": 62.42840576171875,
+      "confidence": 1.0,
+      "num_propellers": 1,
+      "centroid": {
+        "x": 595.6553240393744,
+        "y": 283.60195872682755
+      }
+    },
+    {
+      "frame_id": 125,
+      "timestamp_s": 6.2819755,
+      "status": "detected",
+      "angle_deg": 64.15006256103516,
+      "confidence": 1.0,
+      "num_propellers": 1,
+      "centroid": {
+        "x": 595.8320948079071,
+        "y": 282.93953081742677
+      }
+    },
+    {
+      "frame_id": 126,
+      "timestamp_s": 6.3319755,
+      "status": "detected",
+      "angle_deg": 65.1617660522461,
+      "confidence": 1.0,
+      "num_propellers": 1,
+      "centroid": {
+        "x": 595.965260190185,
+        "y": 281.9516414201749
+      }
+    },
+    {
+      "frame_id": 127,
+      "timestamp_s": 6.3819755,
+      "status": "detected",
+      "angle_deg": 63.214847564697266,
+      "confidence": 1.0,
+      "num_propellers": 1,
+      "centroid": {
+        "x": 596.5469297163995,
+        "y": 281.1173859432799
+      }
+    },
+    {
+      "frame_id": 128,
+      "timestamp_s": 6.4319755,
+      "status": "detected",
+      "angle_deg": 63.40220260620117,
+      "confidence": 1.0,
+      "num_propellers": 1,
+      "centroid": {
+        "x": 596.2912774117416,
+        "y": 280.54862818369554
+      }
+    },
+    {
+      "frame_id": 129,
+      "timestamp_s": 6.4819755,
+      "status": "detected",
+      "angle_deg": 62.32173156738281,
+      "confidence": 1.0,
+      "num_propellers": 1,
+      "centroid": {
+        "x": 596.6334601521826,
+        "y": 279.83129755706847
+      }
+    },
+    {
+      "frame_id": 130,
+      "timestamp_s": 6.5319755,
+      "status": "detected",
+      "angle_deg": 63.80288314819336,
+      "confidence": 1.0,
+      "num_propellers": 1,
+      "centroid": {
+        "x": 597.1773586749401,
+        "y": 279.0837445644208
+      }
+    },
+    {
+      "frame_id": 131,
+      "timestamp_s": 6.5819755,
+      "status": "detected",
+      "angle_deg": 61.64487075805664,
+      "confidence": 1.0,
+      "num_propellers": 1,
+      "centroid": {
+        "x": 597.6425424158015,
+        "y": 278.1898708533806
+      }
+    },
+    {
+      "frame_id": 132,
+      "timestamp_s": 6.6319755,
+      "status": "detected",
+      "angle_deg": 60.74420928955078,
+      "confidence": 1.0,
+      "num_propellers": 1,
+      "centroid": {
+        "x": 597.2561201398889,
+        "y": 277.2482513886032
+      }
+    },
+    {
+      "frame_id": 133,
+      "timestamp_s": 6.6819755,
+      "status": "detected",
+      "angle_deg": 59.27275085449219,
+      "confidence": 1.0,
+      "num_propellers": 1,
+      "centroid": {
+        "x": 598.166314900802,
+        "y": 276.8054031236809
+      }
+    },
+    {
+      "frame_id": 134,
+      "timestamp_s": 6.7319755,
+      "status": "detected",
+      "angle_deg": 59.67434310913086,
+      "confidence": 1.0,
+      "num_propellers": 1,
+      "centroid": {
+        "x": 598.1165837044799,
+        "y": 276.4281896777574
+      }
+    },
+    {
+      "frame_id": 135,
+      "timestamp_s": 6.7819755,
+      "status": "detected",
+      "angle_deg": 58.33110809326172,
+      "confidence": 1.0,
+      "num_propellers": 1,
+      "centroid": {
+        "x": 598.8241952789699,
+        "y": 275.98090128755365
+      }
+    },
+    {
+      "frame_id": 136,
+      "timestamp_s": 6.8319755,
+      "status": "detected",
+      "angle_deg": 57.11690139770508,
+      "confidence": 1.0,
+      "num_propellers": 1,
+      "centroid": {
+        "x": 598.8966991994736,
+        "y": 275.5377234345871
+      }
+    },
+    {
+      "frame_id": 137,
+      "timestamp_s": 6.8819755,
+      "status": "detected",
+      "angle_deg": 57.94315719604492,
+      "confidence": 1.0,
+      "num_propellers": 1,
+      "centroid": {
+        "x": 599.0872454216412,
+        "y": 275.5926206039652
+      }
+    },
+    {
+      "frame_id": 138,
+      "timestamp_s": 6.9319755,
+      "status": "detected",
+      "angle_deg": 58.88886642456055,
+      "confidence": 1.0,
+      "num_propellers": 1,
+      "centroid": {
+        "x": 600.1076874037083,
+        "y": 275.5086330553047
+      }
+    },
+    {
+      "frame_id": 139,
+      "timestamp_s": 6.9819755,
+      "status": "detected",
+      "angle_deg": 59.51777267456055,
+      "confidence": 1.0,
+      "num_propellers": 1,
+      "centroid": {
+        "x": 599.8851347800957,
+        "y": 275.06326519888603
+      }
+    },
+    {
+      "frame_id": 140,
+      "timestamp_s": 7.0319755,
+      "status": "detected",
+      "angle_deg": 57.44621658325195,
+      "confidence": 1.0,
+      "num_propellers": 4,
+      "centroid": {
+        "x": 599.9146237928472,
+        "y": 274.38368884643955
+      }
+    },
+    {
+      "frame_id": 141,
+      "timestamp_s": 7.0819755,
+      "status": "detected",
+      "angle_deg": 55.85780334472656,
+      "confidence": 1.0,
+      "num_propellers": 4,
+      "centroid": {
+        "x": 599.9947032162944,
+        "y": 273.84338994157156
+      }
+    },
+    {
+      "frame_id": 142,
+      "timestamp_s": 7.1319755,
+      "status": "detected",
+      "angle_deg": 58.83806610107422,
+      "confidence": 1.0,
+      "num_propellers": 1,
+      "centroid": {
+        "x": 598.791990213807,
+        "y": 273.41256249335174
+      }
+    },
+    {
+      "frame_id": 143,
+      "timestamp_s": 7.1819755,
+      "status": "detected",
+      "angle_deg": 58.97649002075195,
+      "confidence": 1.0,
+      "num_propellers": 1,
+      "centroid": {
+        "x": 599.0792168514884,
+        "y": 272.3387276489627
+      }
+    },
+    {
+      "frame_id": 144,
+      "timestamp_s": 7.2319755,
+      "status": "detected",
+      "angle_deg": 57.9444694519043,
+      "confidence": 1.0,
+      "num_propellers": 1,
+      "centroid": {
+        "x": 599.0282626317212,
+        "y": 271.4410159416374
+      }
+    },
+    {
+      "frame_id": 145,
+      "timestamp_s": 7.2819755,
+      "status": "detected",
+      "angle_deg": 57.34261703491211,
+      "confidence": 1.0,
+      "num_propellers": 1,
+      "centroid": {
+        "x": 600.4163024475524,
+        "y": 270.71667395104896
+      }
+    },
+    {
+      "frame_id": 146,
+      "timestamp_s": 7.3319755,
+      "status": "detected",
+      "angle_deg": 58.55451583862305,
+      "confidence": 1.0,
+      "num_propellers": 1,
+      "centroid": {
+        "x": 600.8512321590848,
+        "y": 270.78077724915806
+      }
+    },
+    {
+      "frame_id": 147,
+      "timestamp_s": 7.3819755,
+      "status": "detected",
+      "angle_deg": 60.6077880859375,
+      "confidence": 1.0,
+      "num_propellers": 1,
+      "centroid": {
+        "x": 600.5572747434112,
+        "y": 270.59636907524884
+      }
+    },
+    {
+      "frame_id": 148,
+      "timestamp_s": 7.4319755,
+      "status": "detected",
+      "angle_deg": 64.02963256835938,
+      "confidence": 1.0,
+      "num_propellers": 1,
+      "centroid": {
+        "x": 600.1280553121044,
+        "y": 270.026146654981
+      }
+    },
+    {
+      "frame_id": 149,
+      "timestamp_s": 7.4819755,
+      "status": "detected",
+      "angle_deg": 66.94252014160156,
+      "confidence": 1.0,
+      "num_propellers": 1,
+      "centroid": {
+        "x": 601.1058358521274,
+        "y": 269.3170425482446
+      }
+    },
+    {
+      "frame_id": 150,
+      "timestamp_s": 7.5319755,
+      "status": "detected",
+      "angle_deg": 63.690956115722656,
+      "confidence": 1.0,
+      "num_propellers": 1,
+      "centroid": {
+        "x": 600.6270754763187,
+        "y": 268.75544889063036
+      }
+    },
+    {
+      "frame_id": 151,
+      "timestamp_s": 7.5819755,
+      "status": "detected",
+      "angle_deg": 63.214088439941406,
+      "confidence": 1.0,
+      "num_propellers": 1,
+      "centroid": {
+        "x": 601.5068865083675,
+        "y": 268.65024435997435
+      }
+    },
+    {
+      "frame_id": 152,
+      "timestamp_s": 7.6319755,
+      "status": "detected",
+      "angle_deg": 64.56129455566406,
+      "confidence": 1.0,
+      "num_propellers": 1,
+      "centroid": {
+        "x": 601.3478365848947,
+        "y": 268.68693258644004
+      }
+    },
+    {
+      "frame_id": 153,
+      "timestamp_s": 7.6819755,
+      "status": "detected",
+      "angle_deg": 66.88639831542969,
+      "confidence": 1.0,
+      "num_propellers": 1,
+      "centroid": {
+        "x": 601.6177510937355,
+        "y": 268.3756864935307
+      }
+    },
+    {
+      "frame_id": 154,
+      "timestamp_s": 7.7319755,
+      "status": "detected",
+      "angle_deg": 62.57941436767578,
+      "confidence": 1.0,
+      "num_propellers": 1,
+      "centroid": {
+        "x": 601.3935644799202,
+        "y": 267.12551758543276
+      }
+    },
+    {
+      "frame_id": 155,
+      "timestamp_s": 7.7819755,
+      "status": "detected",
+      "angle_deg": 57.13990783691406,
+      "confidence": 1.0,
+      "num_propellers": 1,
+      "centroid": {
+        "x": 601.5192740033997,
+        "y": 266.55705434007785
+      }
+    },
+    {
+      "frame_id": 156,
+      "timestamp_s": 7.8319755,
+      "status": "detected",
+      "angle_deg": 55.77534103393555,
+      "confidence": 0.7,
+      "num_propellers": 0,
+      "centroid": {
+        "x": 601.302709401228,
+        "y": 266.5708330986312
+      }
+    },
+    {
+      "frame_id": 157,
+      "timestamp_s": 7.8819755,
+      "status": "detected",
+      "angle_deg": 56.42919921875,
+      "confidence": 0.7,
+      "num_propellers": 1,
+      "centroid": {
+        "x": 601.8882901899789,
+        "y": 266.56377069214534
+      }
+    },
+    {
+      "frame_id": 158,
+      "timestamp_s": 7.9319755,
+      "status": "detected",
+      "angle_deg": 56.56826400756836,
+      "confidence": 0.7,
+      "num_propellers": 1,
+      "centroid": {
+        "x": 601.9146023829315,
+        "y": 265.9540038791909
+      }
+    },
+    {
+      "frame_id": 159,
+      "timestamp_s": 7.9819755,
+      "status": "detected",
+      "angle_deg": 54.8707275390625,
+      "confidence": 0.7,
+      "num_propellers": 1,
+      "centroid": {
+        "x": 601.7218346105456,
+        "y": 265.53431316481755
+      }
+    },
+    {
+      "frame_id": 160,
+      "timestamp_s": 8.0319755,
+      "status": "detected",
+      "angle_deg": 57.40621566772461,
+      "confidence": 0.7,
+      "num_propellers": 1,
+      "centroid": {
+        "x": 602.6798188168522,
+        "y": 266.1518773193626
+      }
+    },
+    {
+      "frame_id": 161,
+      "timestamp_s": 8.0819755,
+      "status": "detected",
+      "angle_deg": 56.779415130615234,
+      "confidence": 0.48999999999999994,
+      "num_propellers": 0,
+      "centroid": {
+        "x": 602.265011611191,
+        "y": 266.36354086033396
+      }
+    },
+    {
+      "frame_id": 162,
+      "timestamp_s": 8.1319755,
+      "status": "detected",
+      "angle_deg": 57.618385314941406,
+      "confidence": 0.5,
+      "num_propellers": 1,
+      "centroid": {
+        "x": 602.2819787985866,
+        "y": 266.11345474313674
+      }
+    },
+    {
+      "frame_id": 163,
+      "timestamp_s": 8.1819755,
+      "status": "detected",
+      "angle_deg": 57.6550407409668,
+      "confidence": 0.5,
+      "num_propellers": 1,
+      "centroid": {
+        "x": 601.7278209376867,
+        "y": 265.29695224642796
+      }
+    },
+    {
+      "frame_id": 164,
+      "timestamp_s": 8.2319755,
+      "status": "detected",
+      "angle_deg": 58.428260803222656,
+      "confidence": 0.5,
+      "num_propellers": 1,
+      "centroid": {
+        "x": 602.4438966884578,
+        "y": 265.29385917908047
+      }
+    },
+    {
+      "frame_id": 165,
+      "timestamp_s": 8.2819755,
+      "status": "detected",
+      "angle_deg": 62.3088264465332,
+      "confidence": 0.5,
+      "num_propellers": 1,
+      "centroid": {
+        "x": 602.4293660736657,
+        "y": 266.22194938611875
+      }
+    },
+    {
+      "frame_id": 166,
+      "timestamp_s": 8.3319755,
+      "status": "detected",
+      "angle_deg": 67.01907348632812,
+      "confidence": 0.5,
+      "num_propellers": 1,
+      "centroid": {
+        "x": 601.454249883883,
+        "y": 266.56103111936835
+      }
+    },
+    {
+      "frame_id": 167,
+      "timestamp_s": 8.3819755,
+      "status": "detected",
+      "angle_deg": 70.52709197998047,
+      "confidence": 0.5,
+      "num_propellers": 1,
+      "centroid": {
+        "x": 601.4074335346766,
+        "y": 266.46126713989685
+      }
+    },
+    {
+      "frame_id": 168,
+      "timestamp_s": 8.4319755,
+      "status": "detected",
+      "angle_deg": 70.55335998535156,
+      "confidence": 0.5,
+      "num_propellers": 1,
+      "centroid": {
+        "x": 601.6185884735614,
+        "y": 266.27895918636904
+      }
+    },
+    {
+      "frame_id": 169,
+      "timestamp_s": 8.4819755,
+      "status": "detected",
+      "angle_deg": 69.72274780273438,
+      "confidence": 0.5,
+      "num_propellers": 1,
+      "centroid": {
+        "x": 601.8992154765089,
+        "y": 266.8415797450299
+      }
+    },
+    {
+      "frame_id": 170,
+      "timestamp_s": 8.5319755,
+      "status": "detected",
+      "angle_deg": 63.702178955078125,
+      "confidence": 0.5,
+      "num_propellers": 1,
+      "centroid": {
+        "x": 601.7734195191225,
+        "y": 266.7843396503599
+      }
+    },
+    {
+      "frame_id": 171,
+      "timestamp_s": 8.5819755,
+      "status": "detected",
+      "angle_deg": 61.27084732055664,
+      "confidence": 0.5,
+      "num_propellers": 1,
+      "centroid": {
+        "x": 602.0202988728515,
+        "y": 267.02810220839496
+      }
+    },
+    {
+      "frame_id": 172,
+      "timestamp_s": 8.6319755,
+      "status": "detected",
+      "angle_deg": 57.02046585083008,
+      "confidence": 0.5,
+      "num_propellers": 1,
+      "centroid": {
+        "x": 601.9089460380261,
+        "y": 266.31794702714586
+      }
+    },
+    {
+      "frame_id": 173,
+      "timestamp_s": 8.6819755,
+      "status": "detected",
+      "angle_deg": 51.58885192871094,
+      "confidence": 0.5,
+      "num_propellers": 1,
+      "centroid": {
+        "x": 601.5557249115961,
+        "y": 265.38458724545785
+      }
+    },
+    {
+      "frame_id": 174,
+      "timestamp_s": 8.7319755,
+      "status": "detected",
+      "angle_deg": 48.93910598754883,
+      "confidence": 0.35,
+      "num_propellers": 0,
+      "centroid": {
+        "x": 602.0379820425037,
+        "y": 265.1795749628577
+      }
+    },
+    {
+      "frame_id": 175,
+      "timestamp_s": 8.7819755,
+      "status": "detected",
+      "angle_deg": 47.957889556884766,
+      "confidence": 0.6499999999999999,
+      "num_propellers": 4,
+      "centroid": {
+        "x": 602.2965097662504,
+        "y": 265.24918347742556
+      }
+    },
+    {
+      "frame_id": 176,
+      "timestamp_s": 8.8319755,
+      "status": "detected",
+      "angle_deg": 52.1694450378418,
+      "confidence": 0.6499999999999999,
+      "num_propellers": 1,
+      "centroid": {
+        "x": 602.4741155909119,
+        "y": 265.1633218827216
+      }
+    },
+    {
+      "frame_id": 177,
+      "timestamp_s": 8.8819755,
+      "status": "detected",
+      "angle_deg": 52.59158706665039,
+      "confidence": 0.6499999999999999,
+      "num_propellers": 1,
+      "centroid": {
+        "x": 602.288608654076,
+        "y": 264.4081400908439
+      }
+    },
+    {
+      "frame_id": 178,
+      "timestamp_s": 8.9319755,
+      "status": "detected",
+      "angle_deg": 54.403621673583984,
+      "confidence": 0.6499999999999999,
+      "num_propellers": 1,
+      "centroid": {
+        "x": 602.0076741099764,
+        "y": 264.00490450637585
+      }
+    },
+    {
+      "frame_id": 179,
+      "timestamp_s": 8.9819755,
+      "status": "detected",
+      "angle_deg": 57.63032913208008,
+      "confidence": 0.6499999999999999,
+      "num_propellers": 1,
+      "centroid": {
+        "x": 601.9577694439915,
+        "y": 264.987716723735
+      }
+    },
+    {
+      "frame_id": 180,
+      "timestamp_s": 9.0319755,
+      "status": "detected",
+      "angle_deg": 59.409175872802734,
+      "confidence": 0.6499999999999999,
+      "num_propellers": 1,
+      "centroid": {
+        "x": 602.1612070781546,
+        "y": 265.34948388455865
+      }
+    },
+    {
+      "frame_id": 181,
+      "timestamp_s": 9.0819755,
+      "status": "detected",
+      "angle_deg": 67.15577697753906,
+      "confidence": 0.6499999999999999,
+      "num_propellers": 1,
+      "centroid": {
+        "x": 602.4650106590045,
+        "y": 264.00931504309943
+      }
+    },
+    {
+      "frame_id": 182,
+      "timestamp_s": 9.1319755,
+      "status": "detected",
+      "angle_deg": 57.100765228271484,
+      "confidence": 0.6499999999999999,
+      "num_propellers": 1,
+      "centroid": {
+        "x": 601.7378443639557,
+        "y": 262.0611348918889
+      }
+    },
+    {
+      "frame_id": 183,
+      "timestamp_s": 9.1819755,
+      "status": "detected",
+      "angle_deg": 60.83259201049805,
+      "confidence": 0.6499999999999999,
+      "num_propellers": 1,
+      "centroid": {
+        "x": 601.0896013152486,
+        "y": 263.3106247431155
+      }
+    },
+    {
+      "frame_id": 184,
+      "timestamp_s": 9.2319755,
+      "status": "detected",
+      "angle_deg": 62.37461471557617,
+      "confidence": 0.6499999999999999,
+      "num_propellers": 1,
+      "centroid": {
+        "x": 600.7558936883728,
+        "y": 265.21027078432354
+      }
+    },
+    {
+      "frame_id": 185,
+      "timestamp_s": 9.2819755,
+      "status": "detected",
+      "angle_deg": 61.174537658691406,
+      "confidence": 0.6499999999999999,
+      "num_propellers": 1,
+      "centroid": {
+        "x": 601.8543262846051,
+        "y": 263.93032996220245
+      }
+    },
+    {
+      "frame_id": 186,
+      "timestamp_s": 9.3319755,
+      "status": "detected",
+      "angle_deg": 56.59834289550781,
+      "confidence": 0.6499999999999999,
+      "num_propellers": 1,
+      "centroid": {
+        "x": 601.8702442266157,
+        "y": 262.90657362795594
+      }
+    },
+    {
+      "frame_id": 187,
+      "timestamp_s": 9.3819755,
+      "status": "detected",
+      "angle_deg": 55.1159782409668,
+      "confidence": 0.6499999999999999,
+      "num_propellers": 1,
+      "centroid": {
+        "x": 601.7816805191848,
+        "y": 262.36200614824094
+      }
+    },
+    {
+      "frame_id": 188,
+      "timestamp_s": 9.4319755,
+      "status": "detected",
+      "angle_deg": 56.748985290527344,
+      "confidence": 0.6499999999999999,
+      "num_propellers": 1,
+      "centroid": {
+        "x": 601.8223793217718,
+        "y": 262.39975698663426
+      }
+    },
+    {
+      "frame_id": 189,
+      "timestamp_s": 9.4819755,
+      "status": "detected",
+      "angle_deg": 60.544944763183594,
+      "confidence": 0.6499999999999999,
+      "num_propellers": 1,
+      "centroid": {
+        "x": 601.7882073523338,
+        "y": 263.99953531598516
+      }
+    },
+    {
+      "frame_id": 190,
+      "timestamp_s": 9.5319755,
+      "status": "detected",
+      "angle_deg": 58.67422866821289,
+      "confidence": 0.6499999999999999,
+      "num_propellers": 1,
+      "centroid": {
+        "x": 601.3258109261631,
+        "y": 264.1617050789586
+      }
+    },
+    {
+      "frame_id": 191,
+      "timestamp_s": 9.5819755,
+      "status": "detected",
+      "angle_deg": 61.38358688354492,
+      "confidence": 0.6499999999999999,
+      "num_propellers": 1,
+      "centroid": {
+        "x": 600.6592528501628,
+        "y": 262.9793872149837
+      }
+    },
+    {
+      "frame_id": 192,
+      "timestamp_s": 9.6319755,
+      "status": "detected",
+      "angle_deg": 59.20399856567383,
+      "confidence": 0.6499999999999999,
+      "num_propellers": 1,
+      "centroid": {
+        "x": 601.4755285412263,
+        "y": 263.65480972515854
+      }
+    },
+    {
+      "frame_id": 193,
+      "timestamp_s": 9.6819755,
+      "status": "detected",
+      "angle_deg": 57.892696380615234,
+      "confidence": 0.6499999999999999,
+      "num_propellers": 1,
+      "centroid": {
+        "x": 602.0636732485799,
+        "y": 264.2897484446849
+      }
+    },
+    {
+      "frame_id": 194,
+      "timestamp_s": 9.7319755,
+      "status": "detected",
+      "angle_deg": 57.79043197631836,
+      "confidence": 0.6499999999999999,
+      "num_propellers": 1,
+      "centroid": {
+        "x": 602.3018264592705,
+        "y": 264.4072949975611
+      }
+    },
+    {
+      "frame_id": 195,
+      "timestamp_s": 9.7819755,
+      "status": "detected",
+      "angle_deg": 58.653900146484375,
+      "confidence": 0.6499999999999999,
+      "num_propellers": 1,
+      "centroid": {
+        "x": 603.6914865225514,
+        "y": 264.0141446490526
+      }
+    },
+    {
+      "frame_id": 196,
+      "timestamp_s": 9.8319755,
+      "status": "detected",
+      "angle_deg": 59.73040771484375,
+      "confidence": 0.6499999999999999,
+      "num_propellers": 1,
+      "centroid": {
+        "x": 602.6862365140883,
+        "y": 264.1913166439719
+      }
+    },
+    {
+      "frame_id": 197,
+      "timestamp_s": 9.8819755,
+      "status": "detected",
+      "angle_deg": 65.77778625488281,
+      "confidence": 0.6499999999999999,
+      "num_propellers": 1,
+      "centroid": {
+        "x": 604.425053279659,
+        "y": 266.74179493251245
+      }
+    },
+    {
+      "frame_id": 198,
+      "timestamp_s": 9.9319755,
+      "status": "detected",
+      "angle_deg": 63.51995849609375,
+      "confidence": 0.6499999999999999,
+      "num_propellers": 1,
+      "centroid": {
+        "x": 604.3846645053542,
+        "y": 267.8705177325867
+      }
+    },
+    {
+      "frame_id": 199,
+      "timestamp_s": 9.9819755,
+      "status": "detected",
+      "angle_deg": 60.6251106262207,
+      "confidence": 0.4549999999999999,
+      "num_propellers": 0,
+      "centroid": {
+        "x": 603.3951929028265,
+        "y": 267.72333402104397
+      }
+    },
+    {
+      "frame_id": 200,
+      "timestamp_s": 10.0319755,
+      "status": "detected",
+      "angle_deg": 64.02947235107422,
+      "confidence": 0.5,
+      "num_propellers": 1,
+      "centroid": {
+        "x": 607.0057000876936,
+        "y": 267.88799571275456
+      }
+    },
+    {
+      "frame_id": 201,
+      "timestamp_s": 10.0609595,
+      "status": "detected",
+      "angle_deg": 56.389041900634766,
+      "confidence": 0.5,
+      "num_propellers": 1,
+      "centroid": {
+        "x": 607.4367488931056,
+        "y": 267.51265022137886
+      }
+    }
+  ]
+}

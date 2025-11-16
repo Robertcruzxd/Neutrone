@@ -1,0 +1,10 @@
+*cache
+__pycache__/
+
+.venv
+*.mp4
+
+/data
+models/
+src/evio/source/*.dat 
+drone_dataset/
